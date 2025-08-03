@@ -1,0 +1,10 @@
+[project]
+name = "pdf-rag-app-v1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=0.34.3",
+    "modal>=1.1.1",
+]
